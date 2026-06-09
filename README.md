@@ -2,6 +2,8 @@
 
 > A tribute platform dedicated to honoring the brave soldiers, freedom fighters, farmers, scientists, and visionaries who have contributed to India's growth, freedom, and prosperity.
 
+<img src="demo.png" />
+
 ## 🌟 Overview
 
 TributeX is a responsive and interactive web platform designed to celebrate the lives and achievements of India's heroes. The platform serves as a digital memorial where users can learn about inspiring personalities, participate in community discussions, share tributes, and support meaningful initiatives.
